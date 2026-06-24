@@ -9,7 +9,7 @@ Este proyecto es una aplicación web interactiva desarrollada completamente en *
 * **Pandas**: Manipulación, limpieza y análisis de estructuras de datos.
 * **Matplotlib**: Generación de gráficos y visualizaciones estacionales.
 
-## ⚙️ Características de la Aplicación
+## Características de la Aplicación
 * **Análisis del Pasado**: Cálculo dinámico de KPIs clave (Venta total, promedio mensual y meses analizados).
 * **Predicción del Futuro**: El usuario puede interactuar con una barra lateral para definir cuántos meses al futuro desea predecir.
 * **Flexibilidad del Algoritmo**: Permite ajustar en tiempo real el grado polinomial del modelo para evaluar diferentes escenarios de ajuste y sobreajuste (Overfitting/Underfitting).
